@@ -1,0 +1,22 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "Simple logger for node app",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paqu/simple-logger.git"
+  },
+  "author": "Pawel Kusz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paqu/simple-logger/issues"
+  },
+  "homepage": "https://github.com/paqu/simple-logger#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
